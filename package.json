@@ -1,0 +1,1 @@
+{"name":"workshop-ia-totvs-2026","version":"1.0.0","private":true,"scripts":{"test":"node --test tests/*.test.js"},"type":"module","description":"Hotsite pós-evento Workshop IA nos Produtos TOTVS"}
