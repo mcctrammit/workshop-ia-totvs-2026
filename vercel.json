@@ -1,0 +1,13 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/ia-totvs-nov2026",
+      "destination": "/"
+    },
+    {
+      "source": "/ia-totvs-nov2026/",
+      "destination": "/"
+    }
+  ]
+}
